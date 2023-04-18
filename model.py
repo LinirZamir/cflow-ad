@@ -7,6 +7,8 @@ import FrEIA.framework as Ff
 import FrEIA.modules as Fm
 import timm
 
+def point(x,z):
+    return x+z
 
 def positionalencoding2d(D, H, W):
     """
