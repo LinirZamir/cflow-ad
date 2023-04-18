@@ -7,7 +7,7 @@ import FrEIA.framework as Ff
 import FrEIA.modules as Fm
 import timm
 
-3
+
 def positionalencoding2d(D, H, W):
     """
     :param D: dimension of the model
